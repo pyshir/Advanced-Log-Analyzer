@@ -1,0 +1,6 @@
+2026-08-14 11:00:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
+2026-08-14 11:01:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
+2026-08-14 11:02:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
+2026-08-14 11:03:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
+2026-08-14 11:04:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
+2026-08-14 11:05:00 [ERROR] user=admin ip=10.0.0.5 action=login status=failed reason="invalid password"
